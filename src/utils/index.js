@@ -199,7 +199,7 @@ export const firebaseConfig = {
 };
 
 export const firebaseStroageURL =
-  process.env.URL;
+  process.env.URLI;
 
 export const addNewAddressFormControls = [
   {
